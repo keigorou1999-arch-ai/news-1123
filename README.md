@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261123/keigorou1999-arch-ai/news-1123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 [![reward](https://make.fun/badge/news-image-20261123/keigorou1999-arch-ai/news-1123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
-Monday 23 November 2026's world news in one image: Earth as a giant bloodshot eye staring back at the viewer, ringed by the day's stories — Ukraine's claimed sea-drone strike on a Russian warship in Libya (lead), Russian strikes near Kyiv, Belgium's national strike grounding flights, Seoul's AI-fear sell-off, the WHO's plea for peace in Ebola-hit DR Congo, the delayed Ariane 6 launch and Brazil's budget vote. Drawn by hand as HTML/SVG (`source/page.html`) and rendered with headless Chrome; `main.ts` writes it to `/output/entry.png`.
+Monday 23 November 2026's world news in one image, laid out like a newspaper front page: a dated masthead, a world map with numbered pins, and nine stories — Iran says three tankers hit mines in the Strait of Hormuz (lead), Ukraine says it sank a Russian warship in Libya, Belgium's national strike grounds flights, Seoul's Kospi falls 3.3% on AI fears, the WHO pleads for peace in Congo's Ebola zone, Brazil's deputies pass Lula's spending curbs, "Carême" wins the International Emmy in New York, an Israeli strike kills a UN agency worker in Gaza, and floods hit 29,000 people in Borneo. Drawn by hand as HTML/SVG (`source/page.html`) and rendered with headless Chrome; `main.ts` writes it to `/output/entry.png`.
 
 ![entry](entry.png)
 
